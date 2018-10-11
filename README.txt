@@ -1,6 +1,6 @@
-The get_data notebook collects and cleans the data.
+The GetData notebook collects and cleans the data.
 
-The learn notebook trains each model, and contains the comment generator
+The Learn notebook trains each model, and contains the comment generator
 
 The explore notebook contains some sentiment exploration and the upvote model's embdding plotting.
 
